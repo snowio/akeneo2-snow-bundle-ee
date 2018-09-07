@@ -1,4 +1,4 @@
-# Snowio Bundle for Akeneo EE
+# Snowio Bundle for Akeneo 2 EE
 
 This bundle provides a new job on the connector called Snowio Connector that allow us to export all the data from just on job, zip them and send to snowio endpoint.
 

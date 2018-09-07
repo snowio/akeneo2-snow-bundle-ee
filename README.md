@@ -10,5 +10,5 @@ This bundle provides a new job on the connector called Snowio Connector that all
 
 You can install this bundle via composer.
 ```
-composer require snowio/akeneo-bundle-ee
+composer require snowio/akeneo2-bundle-ee
 ```
